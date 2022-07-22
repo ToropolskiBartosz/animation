@@ -13,7 +13,12 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 35px;
+    gap: 25px;
+  }
+  #content2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
 
 h1{
